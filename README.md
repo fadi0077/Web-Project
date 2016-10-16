@@ -1,2 +1,2 @@
 # Web-Project
-a small web project demonstarting the use of Github
+this project is intended for testing purposes and to show what Github is capable of
